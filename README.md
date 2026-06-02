@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Nguyen Tran Nam Phong (Thaddeus) 👋
 
-<!--
-**LukaNguyen61004/LukaNguyen61004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught Software Developer from Ho Chi Minh City, Vietnam.
 
-Here are some ideas to get you started:
+Currently working as a Software Developer Intern and actively seeking Junior/Intern opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building scalable web applications, learning system design, and turning ideas into real products.
+
+### Tech Stack
+
+- JavaScript / TypeScript
+- Node.js
+- HTML / CSS
+- Tailwind CSS
+- Git & GitHub
+
+### Currently Learning
+
+- Backend Architecture
+- System Design
+- Software Engineering Best Practices
+
+### Contact
+
+- Email: your-email@example.com
+- LinkedIn: your-linkedin
+- GitHub: github.com/your-username
