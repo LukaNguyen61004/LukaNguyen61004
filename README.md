@@ -22,6 +22,5 @@ I enjoy building scalable web applications, learning system design, and turning 
 
 ### Contact
 
-- Email: your-email@example.com
-- LinkedIn: your-linkedin
-- GitHub: github.com/your-username
+- LinkedIn: linkedin.com/in/phong-nguyen-049081282
+- GitHub: https://github.com/LukaNguyen61004
