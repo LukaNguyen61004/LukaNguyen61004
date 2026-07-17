@@ -6,25 +6,32 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=Hi%2C+I'm+Nguyen+Tran+Nam+Phong;Building+full-stack+web+apps;React+%E2%9D%A4+Node.js+%E2%9D%A4+TypeScript" alt="Typing SVG"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Hi%2C+I'm+Nguyen+Tran+Nam+Phong;Building+full-stack+web+apps;React+%E2%9D%A4+Node.js+%E2%9D%A4+TypeScript" alt="Typing SVG"/>
 
-<br/><br/>
+<br/>
 
-<a href="https://www.linkedin.com/in/phong-nguyen-049081282/">
-  <img src="./imgs/btn-linkedin.png" height="40" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/LukaNguyen61004">
-  <img src="./imgs/btn-github.png" height="40" alt="GitHub"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:howls4112@gmail.com">
-  <img src="./imgs/btn-email.png" height="40" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=LukaNguyen61004&style=flat&color=a78bfa&label=Profile%20Views" height="40" alt="Profile Views"/>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/phong-nguyen-049081282/">
+        <img src="./imgs/btn-linkedin.png" height="40" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/LukaNguyen61004">
+        <img src="./imgs/btn-github.png" height="40" alt="GitHub"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:howls4112@gmail.com">
+        <img src="./imgs/btn-email.png" height="40" alt="Email"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=LukaNguyen61004&style=flat&color=a78bfa&label=Views" height="40" alt="Views"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -48,17 +55,28 @@ I'm **Nguyen Tran Nam Phong (Thaddeus)** — a **Software Engineer Intern** from
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
-
-| 💻 Languages & Core | 🎨 Frontend |
-| :---: | :---: |
-| ![languages](https://skillicons.dev/icons?i=js,ts,html,css) | ![frontend](https://skillicons.dev/icons?i=react,vue,nuxtjs,tailwind) |
-
-| ⚙️ Backend & Databases | 🛠️ Tools |
-| :---: | :---: |
-| ![backend](https://skillicons.dev/icons?i=nodejs,express,postgres,prisma) | ![tools](https://skillicons.dev/icons?i=git,github,postman,vercel,vscode) |
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h4>💻 Languages & Core</h4>
+      <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="languages"/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4>🎨 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,tailwind" alt="frontend"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h4>⚙️ Backend & Databases</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" alt="backend"/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4>🛠️ Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" alt="tools"/>
+    </td>
+  </tr>
+</table>
 
 ## 📌 Featured Project
 
@@ -71,27 +89,22 @@ Full-stack agile project management platform with Kanban boards, issue tracking,
 - Drag-and-drop Kanban + AI sprint retrospectives (Google Gemini)
 
 <p align="center">
-  <a href="https://project-management-system-theta-taupe.vercel.app/">
-    <img src="./imgs/btn-demo.png" height="40" alt="Live Demo"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/LukaNguyen61004/project-management-system">
-    <img src="./imgs/btn-source.png" height="40" alt="Source Code"/>
-  </a>
+  <a href="https://project-management-system-theta-taupe.vercel.app/"><img src="./imgs/btn-demo.png" height="40" alt="Live Demo"/></a>
+  <a href="https://github.com/LukaNguyen61004/project-management-system"><img src="./imgs/btn-source.png" height="40" alt="Source Code"/></a>
 </p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LukaNguyen61004&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0a0812&amp;title_color=a78bfa&amp;icon_color=ec4899&amp;text_color=f1f0fb" height="165" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com/?user=LukaNguyen61004&amp;hide_border=true&amp;background=0a0812&amp;ring=a78bfa&amp;fire=ec4899&amp;currStreakLabel=a78bfa&amp;sideLabels=f1f0fb&amp;dates=8b8ba7&amp;currStreakNum=f1f0fb&amp;sideNums=f1f0fb" height="165" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LukaNguyen61004&amp;hide_border=true&amp;area=true&amp;bg_color=0a0812&amp;color=a78bfa&amp;line=ec4899&amp;point=06b6d4" width="100%" alt="Activity Graph"/>
-</p>
+![GitHub Stats](https://github-readme-stats2.vercel.app/api?username=LukaNguyen61004&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0812&title_color=a78bfa&icon_color=ec4899&text_color=f1f0fb)
+![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=LukaNguyen61004&hide_border=true&background=0a0812&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=f1f0fb&dates=8b8ba7&currStreakNum=f1f0fb&sideNums=f1f0fb)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LukaNguyen61004&hide_border=true&area=true&bg_color=0a0812&color=a78bfa&line=ec4899&point=06b6d4)
+
+</div>
 
 ---
 
@@ -103,21 +116,19 @@ Full-stack agile project management platform with Kanban boards, issue tracking,
 
 <br/>
 
-<a href="mailto:howls4112@gmail.com">
-  <img src="./imgs/btn-email.png" height="40" alt="Email"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/phong-nguyen-049081282/">
-  <img src="./imgs/btn-linkedin.png" height="40" alt="LinkedIn"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/LukaNguyen61004">
-  <img src="./imgs/btn-github.png" height="40" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-### ⭐️ From [LukaNguyen61004](https://github.com/LukaNguyen61004) with 💜
+<table>
+  <tr>
+    <td>
+      <a href="mailto:howls4112@gmail.com"><img src="./imgs/btn-email.png" height="40" alt="Email"/></a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/phong-nguyen-049081282/"><img src="./imgs/btn-linkedin.png" height="40" alt="LinkedIn"/></a>
+    </td>
+    <td>
+      <a href="https://github.com/LukaNguyen61004"><img src="./imgs/btn-github.png" height="40" alt="GitHub"/></a>
+    </td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0812,50:a78bfa,100:ec4899&height=100&section=footer" width="100%" alt="footer"/>
 
