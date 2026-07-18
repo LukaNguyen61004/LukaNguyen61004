@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Hi%2C+I'm+Nguyen+Tran+Nam+Phong;Building+full-stack+web+apps;React+%E2%9D%A4+Node.js+%E2%9D%A4+TypeScript" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Hi%2C+I'm+Nguyen+Tran+Nam+Phong;Backend+%E2%80%A2+System+Design+%E2%80%A2+DevOps;Node.js+%E2%9D%A4+TypeScript+%E2%9D%A4+PostgreSQL" alt="Typing SVG"/>
 
 <br/>
 
@@ -39,19 +39,19 @@
 
 ## 🚀 About Me
 
-I'm **Nguyen Tran Nam Phong (Thaddeus)** — a **Software Engineer Intern** from 🇻🇳 Ho Chi Minh City, Vietnam. Currently studying at **Sai Gon Technology University**.
+I'm a **Software Engineer Intern** from 🇻🇳 Vietnam, passionate about building **scalable** and **reliable** backend systems that solve real product problems.
 
-- 💻 Building full-stack apps with **React**, **Node.js**, **TypeScript**, and **PostgreSQL**
-- 🎨 Experience shipping admin dashboards with **Vue.js**, **Nuxt.js**, and **TailwindCSS**
-- 🧩 Interested in scalable systems, clean UI, and solving real product problems
-- 🌱 Actively seeking an internship / junior role to grow as an engineer
+- 💻 Focused on **Backend Engineering**, **System Design**, and **DevOps**
+- ⚙️ Building REST APIs with **Node.js**, **Express**, **TypeScript**, **Prisma**, and **PostgreSQL**
+- 🖥️ Comfortable across the stack with **React** on the frontend when needed
+- 🚀 Always learning how scalable systems work in practice, and seeking an internship to grow as an engineer
 
 ## 💼 Experience
 
 **Frontend Developer Intern** — Cong Viet Company *(Mar 2026 – May 2026)*
-- Built admin dashboard modules (Dashboard, Organization, User, Service Management) with Vue.js / Nuxt.js
-- Designed reusable UI components and integrated backend APIs via Axios
-- Collaborated with backend engineers in Agile/Scrum sprints
+- Built admin dashboard modules (Dashboard, Organization, User, Service Management) for an AI platform
+- Integrated frontend with backend APIs through an API Gateway; handled CRUD and response mapping
+- Collaborated with backend engineers on API contracts and shipped features in Agile/Scrum sprints
 
 ## 🛠️ Tech Arsenal
 
@@ -62,18 +62,18 @@ I'm **Nguyen Tran Nam Phong (Thaddeus)** — a **Software Engineer Intern** from
       <img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="languages"/>
     </td>
     <td width="50%" valign="top" align="center">
-      <h4>🎨 Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=react,vue,nuxtjs,tailwind" alt="frontend"/>
+      <h4>⚙️ Backend & Databases</h4>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" alt="backend"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" align="center">
-      <h4>⚙️ Backend & Databases</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma" alt="backend"/>
+      <h4>🎨 Frontend</h4>
+      <img src="https://skillicons.dev/icons?i=react,tailwind" alt="frontend"/>
     </td>
     <td width="50%" valign="top" align="center">
-      <h4>🛠️ Tools</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,vscode" alt="tools"/>
+      <h4>🛠️ DevOps & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vercel,vscode" alt="devops-tools"/>
     </td>
   </tr>
 </table>
