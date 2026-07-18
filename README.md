@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=42&duration=2500&pause=99999&color=F75C7E&center=true&vCenter=true&repeat=false&width=500&height=60&lines=Hello!+I'm+Phong" alt="Hello! I'm Phong"/>
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&duration=2500&pause=99999&color=7A57D1&center=true&vCenter=true&repeat=false&width=500&height=36&lines=I'm+passionate+bout+backend+:)" alt="I'm passionate about backend :)"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=24&duration=2500&pause=99999&color=7A57D1&center=true&vCenter=true&repeat=false&width=500&height=36&lines=I'm+passionate+about+backend+:)" alt="I'm passionate about backend :)"/>
 </p>
 
 <br/>
