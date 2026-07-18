@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Hi%2C+I'm+Nguyen+Tran+Nam+Phong;Backend+%E2%80%A2+System+Design+%E2%80%A2+DevOps;Node.js+%E2%9D%A4+TypeScript+%E2%9D%A4+PostgreSQL" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=D3FD50&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=110&lines=Hi%2C+I'm+Nguyen+Tran+Nam+Phong;Backend+%E2%80%A2+System+Design+%E2%80%A2+DevOps;Node.js+%E2%9D%A4+TypeScript+%E2%9D%A4+PostgreSQL" alt="Typing SVG"/>
 
 <br/>
 
@@ -28,7 +28,7 @@
       </a>
     </td>
     <td>
-      <img src="https://komarev.com/ghpvc/?username=LukaNguyen61004&style=flat&color=a78bfa&label=Views" height="40" alt="Views"/>
+      <img src="https://komarev.com/ghpvc/?username=LukaNguyen61004&style=flat&color=d3fd50&label=Views" height="40" alt="Views"/>
     </td>
   </tr>
 </table>
@@ -99,10 +99,10 @@ Full-stack agile project management platform with Kanban boards, issue tracking,
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats2.vercel.app/api?username=LukaNguyen61004&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0812&title_color=a78bfa&icon_color=ec4899&text_color=f1f0fb)
-![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=LukaNguyen61004&hide_border=true&background=0a0812&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=f1f0fb&dates=8b8ba7&currStreakNum=f1f0fb&sideNums=f1f0fb)
+![GitHub Stats](https://github-readme-stats2.vercel.app/api?username=LukaNguyen61004&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0c0c0c&title_color=d3fd50&icon_color=d3fd50&text_color=eae8e3)
+![GitHub Streak](https://github-readme-streak-stats-salesp07.vercel.app/?user=LukaNguyen61004&hide_border=true&background=0c0c0c&ring=d3fd50&fire=d3fd50&currStreakLabel=d3fd50&sideLabels=eae8e3&dates=9a978f&currStreakNum=eae8e3&sideNums=eae8e3)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LukaNguyen61004&hide_border=true&area=true&bg_color=0a0812&color=a78bfa&line=ec4899&point=06b6d4)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LukaNguyen61004&hide_border=true&area=true&bg_color=0c0c0c&color=9a978f&line=d3fd50&point=eae8e3)
 
 </div>
 
@@ -130,6 +130,6 @@ Full-stack agile project management platform with Kanban boards, issue tracking,
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0812,50:a78bfa,100:ec4899&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c0c0c,100:d3fd50&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
