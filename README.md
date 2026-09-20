@@ -13,7 +13,7 @@ I'm a self-taught passionate **Software Engineer Intern** from Vietnam 🇻🇳
 - 🎓 University student at **Sai Gon Technology University**
 - 💼 Interned at **Cong Viet Company** — built the admin dashboard for an AI platform from scratch
 - 💻 Focused on **Backend Engineering**, **System Design**, and **DevOps**
-- 🛠️ Built **[PMS](https://github.com/LukaNguyen61004/project-management-system)** — 50+ REST APIs, JWT auth, RBAC, and AI sprint retrospectives
+- 🛠️ Built **[Cinder](https://github.com/LukaNguyen61004/project-management-system)** — 50+ REST APIs, JWT auth, RBAC, and AI sprint retrospectives
 - ❤️ I love writing **TypeScript**, and learning how scalable systems work in practice
 - 💬 Ask me about anything [here](mailto:howls4112@gmail.com)
 
