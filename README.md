@@ -10,12 +10,12 @@ I'm a self-taught passionate **Software Engineer Intern** from Vietnam 🇻🇳
 
 **About me**
 
-- 🎓 University student at **Sai Gon Technology University**
-- 💼 Interned at **Cong Viet Company** — built the admin dashboard for an AI platform from scratch
-- 💻 Focused on **Backend Engineering**, **System Design**, and **DevOps**
-- 🛠️ Built **[Cinder](https://github.com/LukaNguyen61004/project-management-system)** — 50+ REST APIs, JWT auth, RBAC, and AI sprint retrospectives
-- ❤️ I love writing **TypeScript**, and learning how scalable systems work in practice
-- 💬 Ask me about anything [here](mailto:howls4112@gmail.com)
+- University student at **Sai Gon Technology University**
+- Interned at **Cong Viet Company** — built the admin dashboard for an AI platform from scratch
+- Focused on **Backend Engineering**, **System Design**, and **DevOps**
+- Built **[Cinder](https://github.com/LukaNguyen61004/project-management-system)** — 50+ REST APIs, JWT auth, RBAC, and AI sprint retrospectives
+- I am learning **TypeScript**, **NestJs**, **NextJs** and how scalable systems work in practice
+- Ask me about anything [here](mailto:howls4112@gmail.com)
 
 <p>
   <img src="https://skillicons.dev/icons?i=js&theme=light" height="32" alt="js"/>
