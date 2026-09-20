@@ -29,24 +29,3 @@ I'm a self-taught passionate **Software Engineer Intern** from Vietnam 🇻🇳
   <img src="https://skillicons.dev/icons?i=git&theme=light" height="32" alt="git"/>
 </p>
 
-<table width="100%">
-  <tr>
-    <td width="55%">
-      <img src="https://github-readme-stats.vercel.app/api?username=LukaNguyen61004&show_icons=true&include_all_commits=true&hide_border=true&theme=dark" width="100%" alt="Phong's GitHub Stats"/>
-    </td>
-    <td width="45%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukaNguyen61004&layout=compact&langs_count=8&hide_border=true&theme=dark" width="100%" alt="Most Used Languages"/>
-    </td>
-  </tr>
-</table>
-
-**Top Repositories**
-
-<p>
-  <a href="https://github.com/LukaNguyen61004/project-management-system">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LukaNguyen61004&repo=project-management-system&hide_border=true&theme=dark" width="49%" alt="project-management-system"/>
-  </a>
-  <a href="https://github.com/LukaNguyen61004/Myportfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LukaNguyen61004&repo=Myportfolio&hide_border=true&theme=dark" width="49%" alt="Myportfolio"/>
-  </a>
-</p>
